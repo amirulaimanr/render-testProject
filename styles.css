@@ -2,5 +2,9 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: auto;
+<<<<<<< HEAD
+  font-size: small;
+=======
   font-size: large;
+>>>>>>> c534879ce40bbb7f3deebd09069a454a76c2812c
 }
